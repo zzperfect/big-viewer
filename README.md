@@ -1,9 +1,11 @@
 # big-viewer
 
-[![NPM version](https://img.shields.io/npm/v/big-viewer.svg?style=flat)](https://npmjs.org/package/big-viewer)
-[![NPM downloads](http://img.shields.io/npm/dm/big-viewer.svg?style=flat)](https://npmjs.org/package/big-viewer)
+[//]: # ([![NPM version]&#40;https://img.shields.io/npm/v/big-viewer.svg?style=flat&#41;]&#40;https://npmjs.org/package/big-viewer&#41;)
 
-大屏展示库
+[//]: # ([![NPM downloads]&#40;http://img.shields.io/npm/dm/big-viewer.svg?style=flat&#41;]&#40;https://npmjs.org/package/big-viewer&#41;)
+
+
+请期待！！！大屏展示库
 
 ## Usage
 
